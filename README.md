@@ -9,13 +9,12 @@ computer or laptop ☺️.
 ## Feedback and Live Review
 
 Feel free to give [feedback]() to me on Frontend Mentor and here is
-[live review]()
+[live review](https://huddle-landing-page-with-single-introductory-section-vs.netlify.app/)
 
 ## Tools
 
 - 💻 [Termux](https://f-droid.org/packages/com.termux/) as my terminal
-- 📝
-  [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+- 📝 [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
   as my code editor
 - 🛠️ [Eruda](https://github.com/liriliri/eruda) as my dev tool
 - 🔎 [Font Awesome](https://fontawesome.com) for my icon in this
