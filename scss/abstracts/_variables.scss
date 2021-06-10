@@ -1,0 +1,29 @@
+$default-html-font-size: 100% !default;
+$black: rgb(17, 17, 17) !default;
+$white: rgb(255, 255, 255) !default;
+
+// Specific Variables Only For this project
+
+/// TRANSITION ///
+$transition: all 250ms ease-in-out;
+
+/// PRIMARY COLOR ///
+$violet: hsl(257, 40%, 49%);
+$soft-magenta: hsl(300, 69%, 71%);
+
+/// FONT FAMILY ///
+$body-ff: 'Open Sans', sans-serif;
+$heading-ff: 'Poppins', sans-serif;
+
+// Breakpoints
+$breakpoints-up: (
+  'small': 43.75em,
+  'medium': 77em,
+  'big': 90em
+);
+
+$breakpoints-down: (
+  'small': 43.6875em,
+  'medium': 76.875em,
+  'big': 89.9375em
+);
