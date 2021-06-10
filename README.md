@@ -8,7 +8,7 @@ computer or laptop ☺️.
 
 ## Feedback and Live Review
 
-Feel free to give [feedback]() to me on Frontend Mentor and here is
+Feel free to give [feedback](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-html5-css3-sass-Z2xxLv8fX) to me on Frontend Mentor and here is
 [live review](https://huddle-landing-page-with-single-introductory-section-vs.netlify.app/)
 
 ## Tools
