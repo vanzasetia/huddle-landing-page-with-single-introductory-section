@@ -58,7 +58,7 @@ img {
   padding: 0 rem(32);
 
   @include breakpoint-up('medium') {
-    max-width: 83.7em;
+    max-width: 81.25em;
   }
 }
 
@@ -108,7 +108,7 @@ img {
   }
 
   @include breakpoint-up('medium') {
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1.5fr 1fr;
 
     @supports not (display: grid) {
       display: flex;
@@ -140,7 +140,7 @@ img {
 
   @include breakpoint-down('medium') {
     &__img {
-      max-height: rem(500);
+      max-height: auto;
     }
   }
 
