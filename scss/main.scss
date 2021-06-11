@@ -232,7 +232,7 @@ img {
   padding: rem(26) 0;
 
   @include breakpoint-up('medium') {
-    padding: 0;
+    padding-bottom: rem(26);
   }
 
   &__list {
